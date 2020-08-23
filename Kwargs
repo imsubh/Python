@@ -1,1 +1,11 @@
 
+#    **kwargs
+
+# def func1(**kwargs):
+#     for k,v in kwargs.items():
+#         print(f"{k} : {v}")
+
+# func1(f_name ="Subhash",l_name = "kumar")
+# # we can also pass as dict
+# d={'fname' : 'sacvaca', 'lname': "adab"}
+# func1(**d)
